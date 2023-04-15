@@ -1,8 +1,8 @@
 /*
     Your Name's Personal Website
-    Copyright 2022 (C) Your Name
+    Copyright 2023 (C) BIGDREAM 
     Javascript File
-    07/24/2022
+    04/15/2023
 */
 
 
